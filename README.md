@@ -1,6 +1,6 @@
 # Azure Data Engineering Project
 
-![Azure Data Engineering Architecture](./image.png)
+![Azure-Databricks-E2E-Pipeline](./image/AzureProjectArchitecture.png)
 
 ## 🚀 About the Project
 This is a hands-on, real-world **Azure Data Engineering Project** designed to provide a deep understanding of building scalable and efficient data pipelines using modern cloud tools and techniques. The project is based on the **Medallion Architecture** (Bronze, Silver, Gold layers) and tackles complex, real-time data engineering challenges.
@@ -68,7 +68,7 @@ The final STAR schema design enables efficient reporting and supports dashboards
 ### Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone anmolgarg848/Azure-Databricks-E2E-Pipeline
    ```
 2. Set up your Azure services as per the architecture.
 3. Configure data ingestion pipelines in Azure Data Factory.
