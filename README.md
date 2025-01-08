@@ -2,6 +2,13 @@
 
 ![Azure-Databricks-E2E-Pipeline](./image/AzureProjectArchitecture.png)
 
+## Dimension and Fact Modelling
+
+![Azure-Databricks-E2E-Pipeline](./Architecture/star%20Schema.png)
+
+## DataBricks Workflows
+![Azure-Databricks-E2E-Pipeline](./Architecture/ADB-PIPELINE.png)
+
 ## 🚀 About the Project
 This is a hands-on, real-world **Azure Data Engineering Project** designed to provide a deep understanding of building scalable and efficient data pipelines using modern cloud tools and techniques. The project is based on the **Medallion Architecture** (Bronze, Silver, Gold layers) and tackles complex, real-time data engineering challenges.
 
